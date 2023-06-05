@@ -1,0 +1,10 @@
+../Core/Src/funksjoner_manpu.c:16:6:manipulator_data_lagring	16	static
+../Core/Src/funksjoner_manpu.c:31:9:sjekk_for_forskjellig_fortegn	16	static
+../Core/Src/funksjoner_manpu.c:60:6:sett_rotasjonsretning	24	static
+../Core/Src/funksjoner_manpu.c:77:10:beregn_ARR	40	static
+../Core/Src/funksjoner_manpu.c:94:10:beregn_CCR_snurr	40	static
+../Core/Src/funksjoner_manpu.c:132:6:behandle_gripe	16	static
+../Core/Src/funksjoner_manpu.c:191:6:behandle_sving	16	static
+../Core/Src/funksjoner_manpu.c:245:6:behandle_skyv	16	static
+../Core/Src/funksjoner_manpu.c:301:6:behandle_snurr	24	static
+../Core/Src/funksjoner_manpu.c:350:6:behandle_manipulator	8	static

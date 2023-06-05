@@ -1,0 +1,4 @@
+../Core/Src/STTS75.c:6:6:STTS75_Init	32	static
+../Core/Src/STTS75.c:17:22:STTS75_Read_Regsiter	40	static
+../Core/Src/STTS75.c:23:22:STTS75_Read_Temp	40	static
+../Core/Src/STTS75.c:63:22:STTS75_Write_Bitsize	40	static

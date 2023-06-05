@@ -1,0 +1,42 @@
+!SESSION 2023-06-01 15:49:11.883 -----------------------------------------------
+eclipse.buildId=Version 1.11.2
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=nb_NO
+Framework arguments:  -keyring /Users/fridawagner/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -data /Users/fridawagner/STM32CubeIDE_23/workspace_final_mod1 -keyring /Users/fridawagner/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-06-01 15:49:24.102
+!MESSAGE Log4j initialized with config file /Users/fridawagner/STM32CubeIDE_23/workspace_final_mod1/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-06-01 15:49:30.045
+!MESSAGE Started RMI Server, listening on port 41338
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-06-01 15:56:46.745
+!MESSAGE Indexed 'REGSYS_V1' (34 sources, 136 headers) in 9,14 sec: 16 891 declarations; 98 966 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0,15 %)
+!SESSION 2023-06-04 23:28:21.914 -----------------------------------------------
+eclipse.buildId=Version 1.11.2
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=nb_NO
+Framework arguments:  -keyring /Users/fridawagner/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -data /Users/fridawagner/STM32CubeIDE_23/workspace_final_mod1 -keyring /Users/fridawagner/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-06-04 23:28:29.262
+!MESSAGE Log4j initialized with config file /Users/fridawagner/STM32CubeIDE_23/workspace_final_mod1/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-06-04 23:28:39.292
+!MESSAGE Started RMI Server, listening on port 41338
+!SESSION 2023-06-05 01:15:54.303 -----------------------------------------------
+eclipse.buildId=Version 1.11.2
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=nb_NO
+Framework arguments:  -keyring /Users/fridawagner/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -data /Users/fridawagner/STM32CubeIDE_23/workspace_final_mod1 -keyring /Users/fridawagner/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-06-05 01:16:02.043
+!MESSAGE Log4j initialized with config file /Users/fridawagner/STM32CubeIDE_23/workspace_final_mod1/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-06-05 01:16:13.049
+!MESSAGE Started RMI Server, listening on port 41341

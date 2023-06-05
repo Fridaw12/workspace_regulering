@@ -1,0 +1,11 @@
+../Core/Src/funksjoner_sensor.c:22:6:null_PID_var	16	static
+../Core/Src/funksjoner_sensor.c:30:6:beregn_generell_PID	40	static
+../Core/Src/funksjoner_sensor.c:61:7:konverter_kg_paadrag	16	static
+../Core/Src/funksjoner_sensor.c:67:6:hiv_regulering_init	4	static
+../Core/Src/funksjoner_sensor.c:92:6:rull_regulering_init	4	static
+../Core/Src/funksjoner_sensor.c:112:6:stamp_regulering_init	4	static
+../Core/Src/funksjoner_sensor.c:133:6:hiv_regulering	8	static
+../Core/Src/funksjoner_sensor.c:147:6:stamp_regulering	8	static
+../Core/Src/funksjoner_sensor.c:163:6:rull_regulering	8	static
+../Core/Src/funksjoner_sensor.c:181:6:beregn_reguleringbidrag	8	static
+../Core/Src/funksjoner_sensor.c:225:6:oppdater_parameter	24	static
